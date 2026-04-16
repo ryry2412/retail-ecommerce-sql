@@ -3,7 +3,7 @@
 **Author:** Riley Allen  
 **Tools:** SQL, PostgreSQL  
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) *(Kaggle — free download, no account required)*  
-**Status:** In Progress
+**Status:** Complete
 
 ---
 
